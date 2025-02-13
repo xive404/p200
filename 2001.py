@@ -38,12 +38,12 @@ os.system('xdg-open https://www.facebook.com/djpagladirector')
 attemps = 0
 
 while attemps < 12345677901:
-	[green_yellow]███████╗██████╗     [dark_olive_gre]██╗  ██╗██╗███╗   ██╗ ██████╗ 
-[green_yellow]██╔════╝██╔══██╗    [dark_olive_gre]██║ ██╔╝██║████╗  ██║██╔════╝ 
-[green_yellow]█████╗  ██████╔╝    [dark_olive_gre]█████╔╝ ██║██╔██╗ ██║██║  ███╗
-[green_yellow]██╔══╝  ██╔══██╗    [dark_olive_gre]██╔═██╗ ██║██║╚██╗██║██║   ██║
-[green_yellow]██║     ██████╔╝    [dark_olive_gre]██║  ██╗██║██║ ╚████║╚██████╔╝
-[green_yellow]╚═╝     ╚═════╝     [dark_olive_gre]╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝     
+print(green_yellow]███████╗██████╗     [dark_olive_gre]██╗  ██╗██╗███╗   ██╗ ██████╗ 
+print[green_yellow]██╔════╝██╔══██╗    [dark_olive_gre]██║ ██╔╝██║████╗  ██║██╔════╝ 
+print[green_yellow]█████╗  ██████╔╝    [dark_olive_gre]█████╔╝ ██║██╔██╗ ██║██║  ███╗
+print[green_yellow]██╔══╝  ██╔══██╗    [dark_olive_gre]██╔═██╗ ██║██║╚██╗██║██║   ██║
+print[green_yellow]██║     ██████╔╝    [dark_olive_gre]██║  ██╗██║██║ ╚████║╚██████╔╝
+print[green_yellow]╚═╝     ╚═════╝     [dark_olive_gre]╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝     
    print (' WHATUP 01867850909 ') 
 username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
     password = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER PASSWORD: ')
